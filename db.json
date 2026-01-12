@@ -8,11 +8,10 @@
         "titulo": "Formalização MEI",
         "descricao": "Quero ser MEI",
         "imgUrl": "https://res.cloudinary.com/ddzqr6r2m/image/upload/v1739365393/images/Estadual.png",
-        "href": "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor/quero-ser-mei"
+        "href": "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor/quero-ser-mei",
+        "target": "_blank"
       }
     ]
   },
-  "appVersion": {
-    "version": 1
-  }
+  "appVersion": { "version": 1 }
 }
