@@ -29,7 +29,7 @@
         "href": "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor/quero-ser-mei",
         "target": "_blank"
       },
-       {
+      {
         "id": 4,
         "ordem": 4,
         "titulo": "Formalização MEI",
@@ -38,7 +38,7 @@
         "href": "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor/quero-ser-mei",
         "target": "_blank"
       },
-       {
+      {
         "id": 5,
         "ordem": 5,
         "titulo": "Formalização MEI",
@@ -47,9 +47,18 @@
         "href": "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor/quero-ser-mei",
         "target": "_blank"
       },
-       {
+      {
         "id": 6,
         "ordem": 6,
+        "titulo": "Formalização MEI",
+        "descricao": "Quero ser MEI",
+        "imgUrl": "https://res.cloudinary.com/ddzqr6r2m/image/upload/v1739365393/images/Estadual.png",
+        "href": "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor/quero-ser-mei",
+        "target": "_blank"
+      },
+      {
+        "id": 7,
+        "ordem": 7,
         "titulo": "Formalização MEI",
         "descricao": "Quero ser MEI",
         "imgUrl": "https://res.cloudinary.com/ddzqr6r2m/image/upload/v1739365393/images/Estadual.png",
@@ -58,5 +67,7 @@
       }
     ]
   },
-  "appVersion": { "version": 1 }
+  "appVersion": {
+    "version": 1
+  }
 }
