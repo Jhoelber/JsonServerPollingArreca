@@ -1,6 +1,6 @@
 {
   "menu": {
-    "versao": 20,
+    "versao": 21,
     "itens": [
       {
         "id": 1,
@@ -13,7 +13,7 @@
       {
         "id": 2,
         "ordem": 2,
-        "titulo": "Imprimir Alvara",
+        "titulo": "Alvara",
         "imgUrl": "https://res.cloudinary.com/dfgbasaxa/image/upload/v1768330633/arrecadacao/alvara.png",
         "href": "https://jacarezinho.govbr.cloud/AlvaraWeb/Alvara/Imprimir",
         "target": "_blank"
