@@ -1,6 +1,6 @@
 {
   "menu": {
-    "versao": 24,
+    "versao": 25,
     "itens": [
       {
         "id": 1,
@@ -33,23 +33,8 @@
         "imgUrl": "https://res.cloudinary.com/dfgbasaxa/image/upload/v1768331238/arrecadacao/nfse.png",
         "href": "https://jacarezinho.govbr.cloud/nfse.portal/",
         "target": "_blank"
-      },
-      {
-        "id": 5,
-        "ordem": 5,
-        "titulo": "Formalização MEI",
-        "imgUrl": "https://res.cloudinary.com/dfgbasaxa/image/upload/v1714649683/images/Atualizeseusdados.png",
-        "href": "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor/quero-ser-mei",
-        "target": "_blank"
-      },
-      {
-        "id": 6,
-        "ordem": 6,
-        "titulo": "Imprimir IPTU",
-        "imgUrl": "https://res.cloudinary.com/dfgbasaxa/image/upload/v1714649685/images/Legislacaoemanuais.png",
-        "href": "https://www.google.com/",
-        "target": "_blank"
       }
+      
     ]
   },
   "appVersion": {
