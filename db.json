@@ -1,6 +1,6 @@
 {
   "menu": {
-    "versao": 23,
+    "versao": 24,
     "itens": [
       {
         "id": 1,
@@ -14,7 +14,7 @@
         "id": 2,
         "ordem": 2,
         "titulo": "Verificar autenticidade do Alvara",
-        "imgUrl": "https://res.cloudinary.com/dfgbasaxa/image/upload/v1768332911/arrecadacao/alvaraAutenticidade.pngg",
+        "imgUrl": "https://res.cloudinary.com/dfgbasaxa/image/upload/v1768332911/arrecadacao/alvaraAutenticidade.png",
         "href": "https://jacarezinho.govbr.cloud/AlvaraWeb/Alvara/VerificarAutenticidade",
         "target": "_blank"
       },
