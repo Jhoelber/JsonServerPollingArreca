@@ -1,6 +1,6 @@
 {
   "menu": {
-    "versao": 21,
+    "versao": 22,
     "itens": [
       {
         "id": 1,
@@ -29,7 +29,7 @@
       {
         "id": 4,
         "ordem": 4,
-        "titulo": "NFSE",
+        "titulo": "Nota Fiscal eletronica",
         "imgUrl": "https://res.cloudinary.com/dfgbasaxa/image/upload/v1768331238/arrecadacao/nfse.png",
         "href": "https://jacarezinho.govbr.cloud/nfse.portal/",
         "target": "_blank"
