@@ -47,12 +47,12 @@
         "ordem": 6,
         "titulo": "Imprimir IPTU",
         "imgUrl": "https://res.cloudinary.com/ddzqr6r2m/image/upload/v1739365393/images/Estadual.png",
-        "href": "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor/quero-ser-mei",
+        "href": "https://www.google.com/",
         "target": "_blank"
       }
     ]
   },
   "appVersion": {
-    "version": 5
+    "version": 6
   }
 }
