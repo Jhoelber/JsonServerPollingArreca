@@ -1,6 +1,6 @@
 {
   "menu": {
-    "versao": 25,
+    "versao": 2,
     "itens": [
       {
         "id": 1,
@@ -13,9 +13,9 @@
       {
         "id": 2,
         "ordem": 2,
-        "titulo": "Verificar autenticidade do Alvara",
+        "titulo": "certidão",
         "imgUrl": "https://res.cloudinary.com/dfgbasaxa/image/upload/v1768332911/arrecadacao/alvaraAutenticidade.png",
-        "href": "https://jacarezinho.govbr.cloud/AlvaraWeb/Alvara/VerificarAutenticidade",
+        "href": "https://jacarezinho.govbr.cloud/certidao/",
         "target": "_blank"
       },
       {
@@ -24,14 +24,6 @@
         "titulo": "Alvara",
         "imgUrl": "https://res.cloudinary.com/dfgbasaxa/image/upload/v1768332434/arrecadacao/alvara.png",
         "href": "https://jacarezinho.govbr.cloud/AlvaraWeb/Alvara/Imprimir",
-        "target": "_blank"
-      },
-      {
-        "id": 4,
-        "ordem": 4,
-        "titulo": "Nota Fiscal eletronica",
-        "imgUrl": "https://res.cloudinary.com/dfgbasaxa/image/upload/v1768331238/arrecadacao/nfse.png",
-        "href": "https://jacarezinho.govbr.cloud/nfse.portal/",
         "target": "_blank"
       }
       ]
