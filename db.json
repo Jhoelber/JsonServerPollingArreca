@@ -1,6 +1,6 @@
 {
   "menu": {
-    "versao": 31,
+    "versao": 32,
     "itens": [
       {
         "id": 1,
@@ -29,6 +29,6 @@
       ]
   },
   "appVersion": {
-    "version": 10
+    "version": 11
   }
 }
