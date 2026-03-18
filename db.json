@@ -15,7 +15,7 @@
         "ordem": 2,
         "titulo": "Emissão de Certidões",
         "imgUrl": "https://res.cloudinary.com/dfgbasaxa/image/upload/v1768332911/arrecadacao/alvaraAutenticidade.png",
-        "href": "https://jacarezinho.govbr.cloud/certidao/",
+        "href": "https://webapp1-jacarezinho.cidade360.cloud/certidao/",
         "target": "_blank"
       },
       {
@@ -23,7 +23,7 @@
         "ordem": 3,
         "titulo": "Alvara",
         "imgUrl": "https://res.cloudinary.com/dfgbasaxa/image/upload/v1768332434/arrecadacao/alvara.png",
-        "href": "https://jacarezinho.govbr.cloud/AlvaraWeb/Alvara/Imprimir",
+        "href": "https://webapp1-jacarezinho.cidade360.cloud/AlvaraWeb/Alvara/Imprimir",
         "target": "_blank"
       }
       ]
